@@ -3,9 +3,9 @@
 🔭 **Current Role:** Senior Procurement Category Specialist | Data Analyst in the Philippines (Telecom Industry)
 
 💡 **What I Do:**  
-I specialize in **turning business data into actionable insights** using  `Python` • `Power BI` • `Excel` 
+  I specialize in **turning business data into actionable insights** using  `Python` • `Power BI` • `Excel` 
 
-- 🚀 Current Focus
+🚀 Current Focus
   - 📊 Building a **Data Analyst Portfolio** with real-world datasets  
   - 🤖 Learning **Data Science & Adobe Analytics** to transition into a **global data career**
     
