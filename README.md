@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Toby G. Mejia  
 
-<!--
-**tobygmejia31/tobygmejia31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Current Role:** Senior Procurement Category Specialist | Data Analyst in the Philippines (Telecom Industry)
 
-Here are some ideas to get you started:
+💡 **What I Do:**  
+I specialize in **turning business data into actionable insights** using  `Python` • `Power BI` • `Excel` 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Current Focus
+  - 📊 Building a **Data Analyst Portfolio** with real-world datasets  
+  - 🤖 Learning **Data Science & Adobe Analytics** to transition into a **global data career**
+    
+💡 **Career Goal**  
+Actively seeking guidance and opportunities as I shift toward a **Data Science** career.
+
+📫 **Connect with Me**  
+[LinkedIn](https://www.linkedin.com/in/toby-mejia/) • [Email](mailto:tobygmejia@gmail.com)
+
+⚡ **Fun Fact**  
+Mathematics graduate, swimmer, process-oriented thinker, and gamer who loves blending **numbers, technology, and strategy**.
+
