@@ -8,9 +8,9 @@
 🚀 Current Focus
   - 📊 Building a **Data Analyst Portfolio** with real-world datasets  
   - 🤖 Learning **Data Science & Adobe Analytics** to transition into a **data career**
-    
-💡 **Career Goal**  
-Actively seeking guidance and opportunities as I shift toward a **Data Science** career.
+
+💡 Career Goal:
+To leverage my analytics expertise and mathematics background to become a globally competitive Data Scientist.
 
 📫 **Connect with Me**  
 [LinkedIn](https://www.linkedin.com/in/toby-mejia/) • [Email](mailto:tobygmejia@gmail.com)
