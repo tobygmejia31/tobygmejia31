@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Toby G. Mejia  
 
-🔭 **Current Role:** Sr. Procurement Category Specialist | Data Analyst in the Philippines (Telecom Industry)
+🔭 **Current Role:** Sr. Procurement Category Specialist | Data Analyst (Telecom Industry, Philippines)
 
-💡 **What I Do:**  
-  I specialize in **turning business data into actionable insights** using  `Excel` • `Power BI` • `Python` • `R`
+💡 **What I Do:**  I specialize in **turning business data into actionable insights** using  `Excel` • `Power BI` with experience in procurement analytics and dashboard creation.
 
 🚀 Current Focus
-  - 📊 Building a **Data Analyst Portfolio** with real-world datasets  
-  - 🤖 Learning **Data Science & Adobe Analytics** to transition into a **data career**
+    📊 Building a **Data Analyst Portfolio** with real-world datasets  
+    🤖 Expanding into Data Science through ongoing learning in Statistics, Python, R, SQL, and Adobe Analytics
 
 💡 Career Goal:
 To leverage my analytics expertise and mathematics background to become a globally competitive Data Scientist.
